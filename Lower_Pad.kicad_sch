@@ -558,24 +558,6 @@
 		(uuid "0c9c1068-757a-4190-94bf-ff899d0eccbb")
 	)
 	(junction
-		(at 156.21 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "139ed278-d19b-4864-9c46-6477b4e07154")
-	)
-	(junction
-		(at 190.5 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1bb861ff-2d2b-4ec3-8fb0-2f8db75f97e4")
-	)
-	(junction
-		(at 55.88 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d7fb443-2c28-4d08-a543-a89d8d55e4fe")
-	)
-	(junction
 		(at 90.17 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -606,22 +588,10 @@
 		(uuid "357b849c-d21e-4940-98b2-c7623b73c07c")
 	)
 	(junction
-		(at 144.78 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39c4fc21-56a8-4788-9cbb-433a3bfdc5b1")
-	)
-	(junction
 		(at 212.09 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4435c202-39e5-4e3d-a509-f7388a110b55")
-	)
-	(junction
-		(at 90.17 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4bbcccc0-1805-4489-8c40-65f1b003ac84")
 	)
 	(junction
 		(at 212.09 76.2)
@@ -639,31 +609,7 @@
 		(at 55.88 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6d731e88-33ad-4783-b1bf-a41aa7612865")
-	)
-	(junction
-		(at 123.19 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7b7a6f53-734d-4291-865a-31ae1477d1a8")
-	)
-	(junction
-		(at 111.76 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7c8a7d6b-b9cc-4add-83ca-a24d1281eb2d")
-	)
-	(junction
-		(at 111.76 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f1a67da-8402-4bb7-bcb0-ecfa8409ccf5")
-	)
-	(junction
-		(at 90.17 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95a717a3-31f3-46d2-9f19-24550ad782fe")
+		(uuid "840ebaad-e62a-4b9e-a09c-843ec2853504")
 	)
 	(junction
 		(at 55.88 107.95)
@@ -678,12 +624,6 @@
 		(uuid "a7e40cd1-e7fa-4dd0-8037-9786873a3151")
 	)
 	(junction
-		(at 55.88 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b0ed93a3-75d7-4b31-956b-b09728e7c06a")
-	)
-	(junction
 		(at 212.09 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -694,6 +634,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7432ed3-3959-4c12-8881-df8d88dda21a")
+	)
+	(junction
+		(at 190.5 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c39d98e9-679e-46a9-afcc-6fcf9fb694c2")
 	)
 	(junction
 		(at 123.19 107.95)
@@ -708,10 +654,10 @@
 		(uuid "cf0fa48d-707c-4fc5-ba8e-9de605350c61")
 	)
 	(junction
-		(at 123.19 86.36)
+		(at 156.21 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d1130036-88e0-4554-8848-a1f06b0adabe")
+		(uuid "d1fff192-0029-4426-b0a7-1a06905d67b4")
 	)
 	(junction
 		(at 190.5 107.95)
@@ -720,10 +666,16 @@
 		(uuid "d6b2c406-29d3-4371-b451-a7cd2397c910")
 	)
 	(junction
-		(at 90.17 38.1)
+		(at 123.19 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "deade53b-1dbf-471e-a8f0-83b07bcf047e")
+		(uuid "dd4c8d16-c5c0-403d-9d0c-d89fb4fa3ad9")
+	)
+	(junction
+		(at 90.17 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa1e6b12-57dc-42f3-8d40-280b58653a74")
 	)
 	(no_connect
 		(at 177.8 135.89)
@@ -738,16 +690,8 @@
 		(uuid "09dc123d-2f7d-4427-8175-c69ac3c87ec5")
 	)
 	(no_connect
-		(at 77.47 43.18)
-		(uuid "13b3e2b8-8861-4813-86d0-9418a614e35a")
-	)
-	(no_connect
 		(at 91.44 135.89)
 		(uuid "19bfe614-d3f9-4f75-8f17-5ff367691c30")
-	)
-	(no_connect
-		(at 144.78 67.31)
-		(uuid "23aab445-4044-4f16-b2a7-5810193ef922")
 	)
 	(no_connect
 		(at 212.09 135.89)
@@ -790,10 +734,6 @@
 		(uuid "749dfb42-7563-466a-acab-83020de280b6")
 	)
 	(no_connect
-		(at 57.15 43.18)
-		(uuid "7620b31c-0c4e-4f04-a1cd-d1e3c4942e0f")
-	)
-	(no_connect
 		(at 157.48 113.03)
 		(uuid "7f63f1fb-4cac-4d5f-afd2-7986ec9a3c2a")
 	)
@@ -806,28 +746,8 @@
 		(uuid "8ad79343-18c5-4201-a97e-ffd53873a4b6")
 	)
 	(no_connect
-		(at 124.46 67.31)
-		(uuid "91b21bce-0a1a-4dd0-ac5b-fc38819b6c22")
-	)
-	(no_connect
 		(at 144.78 91.44)
 		(uuid "99a0f2c5-96ff-4755-86b8-5c3b2233c4cd")
-	)
-	(no_connect
-		(at 111.76 67.31)
-		(uuid "9a50685f-6c70-4e99-aad2-8bfd5ceb9f9d")
-	)
-	(no_connect
-		(at 111.76 43.18)
-		(uuid "9c3f9b25-d7a1-4611-9367-3ce05d9dcbee")
-	)
-	(no_connect
-		(at 91.44 43.18)
-		(uuid "a9a7ce8a-1b61-4e13-b66c-a08cc7607938")
-	)
-	(no_connect
-		(at 91.44 67.31)
-		(uuid "adc32f70-614f-4405-bb86-ae167d1d621d")
 	)
 	(no_connect
 		(at 91.44 91.44)
@@ -842,10 +762,6 @@
 		(uuid "b7662e92-222a-4fbb-89f6-0efc9226b4e2")
 	)
 	(no_connect
-		(at 57.15 67.31)
-		(uuid "b87bd383-e6b7-49c1-b32e-b5e788cdf1b0")
-	)
-	(no_connect
 		(at 191.77 113.03)
 		(uuid "bbeb45ad-d10c-4647-8da6-5adaa3602c68")
 	)
@@ -856,10 +772,6 @@
 	(no_connect
 		(at 191.77 135.89)
 		(uuid "bd7201d9-3bb3-4810-a13d-7153cfc9c9b1")
-	)
-	(no_connect
-		(at 77.47 67.31)
-		(uuid "c0f17669-50f5-4633-9dbf-390db32d77fd")
 	)
 	(no_connect
 		(at 77.47 91.44)
@@ -897,36 +809,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 38.1) (xy 55.88 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01d8b85c-f5c2-4c46-9c2d-b3cf53198b7e")
-	)
-	(wire
-		(pts
-			(xy 90.17 38.1) (xy 91.44 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01e491b4-cd5b-445d-b211-4663bb95767e")
-	)
-	(wire
-		(pts
-			(xy 77.47 27.94) (xy 77.47 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02b8a0e3-6471-4bad-ad26-04586b5e6a8d")
-	)
-	(wire
-		(pts
 			(xy 77.47 97.79) (xy 111.76 97.79)
 		)
 		(stroke
@@ -954,16 +836,6 @@
 			(type default)
 		)
 		(uuid "0d8df7e1-b2df-4bf0-bf6f-72089049859f")
-	)
-	(wire
-		(pts
-			(xy 111.76 27.94) (xy 111.76 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11482866-e60d-4130-a2eb-311bfa35ba73")
 	)
 	(wire
 		(pts
@@ -1007,26 +879,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 62.23) (xy 123.19 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "202718b7-729c-4b9a-881c-e4749d8afb53")
-	)
-	(wire
-		(pts
-			(xy 111.76 52.07) (xy 144.78 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2203dd57-3a4c-4fdb-a170-f521818045e1")
-	)
-	(wire
-		(pts
 			(xy 123.19 107.95) (xy 124.46 107.95)
 		)
 		(stroke
@@ -1047,16 +899,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 35.56) (xy 123.19 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b179fbf-b34f-471d-9c8c-a6f504227373")
-	)
-	(wire
-		(pts
 			(xy 156.21 107.95) (xy 157.48 107.95)
 		)
 		(stroke
@@ -1074,16 +916,6 @@
 			(type default)
 		)
 		(uuid "2c2299fe-58cb-43dd-ae9e-ae84d6d82cac")
-	)
-	(wire
-		(pts
-			(xy 55.88 35.56) (xy 55.88 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c7a0d80-72b4-4195-a865-8536f0549655")
 	)
 	(wire
 		(pts
@@ -1137,6 +969,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 72.39) (xy 156.21 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51348b35-b01d-4fb9-9799-e0863e25e90e")
+	)
+	(wire
+		(pts
 			(xy 55.88 86.36) (xy 55.88 107.95)
 		)
 		(stroke
@@ -1157,16 +999,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 27.94) (xy 111.76 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "528ec016-c8d6-4c1a-a176-6924ffc009b6")
-	)
-	(wire
-		(pts
 			(xy 212.09 97.79) (xy 215.9 97.79)
 		)
 		(stroke
@@ -1184,16 +1016,6 @@
 			(type default)
 		)
 		(uuid "5512311a-a46b-4cb0-8982-41cf7f21111b")
-	)
-	(wire
-		(pts
-			(xy 156.21 35.56) (xy 156.21 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55c9b418-9d35-4367-a4e0-9dcd495d78a8")
 	)
 	(wire
 		(pts
@@ -1257,16 +1079,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 62.23) (xy 124.46 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6df08e27-b0b5-47d8-9129-4ac5006d7bfc")
-	)
-	(wire
-		(pts
 			(xy 77.47 120.65) (xy 111.76 120.65)
 		)
 		(stroke
@@ -1274,16 +1086,6 @@
 			(type default)
 		)
 		(uuid "74babbb9-592d-4037-a850-568eb78d3196")
-	)
-	(wire
-		(pts
-			(xy 77.47 52.07) (xy 111.76 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80c113dc-e241-4c4a-b29d-c7973d2291f4")
 	)
 	(wire
 		(pts
@@ -1307,16 +1109,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 52.07) (xy 144.78 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84506ce7-c4ad-4d1d-8f8a-9187c5c155b0")
-	)
-	(wire
-		(pts
 			(xy 77.47 76.2) (xy 77.47 78.74)
 		)
 		(stroke
@@ -1334,16 +1126,6 @@
 			(type default)
 		)
 		(uuid "86458b72-bdc4-4f5f-aa6d-a32f6e275396")
-	)
-	(wire
-		(pts
-			(xy 90.17 62.23) (xy 90.17 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c2a0273-5652-4567-8e1c-5d5961cd33c1")
 	)
 	(wire
 		(pts
@@ -1377,23 +1159,13 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 38.1) (xy 57.15 38.1)
+			(xy 190.5 72.39) (xy 190.5 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9ea782b8-81b7-4a59-bb55-7c8dc085e006")
-	)
-	(wire
-		(pts
-			(xy 144.78 52.07) (xy 209.55 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fb49109-c178-4ac5-b1f5-57084452b44c")
+		(uuid "a1e6e707-2e80-4e0a-92e2-e5b499e1d81a")
 	)
 	(wire
 		(pts
@@ -1404,16 +1176,6 @@
 			(type default)
 		)
 		(uuid "a81b06f0-155d-42e9-933f-bfb13dca67a7")
-	)
-	(wire
-		(pts
-			(xy 55.88 62.23) (xy 55.88 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9af0d3a-d2d2-44b2-b35f-41589edef9b9")
 	)
 	(wire
 		(pts
@@ -1447,6 +1209,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 72.39) (xy 90.17 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b28a5985-7bf3-420a-b515-223abff14329")
+	)
+	(wire
+		(pts
 			(xy 177.8 76.2) (xy 212.09 76.2)
 		)
 		(stroke
@@ -1464,36 +1236,6 @@
 			(type default)
 		)
 		(uuid "b2cd4c48-03e8-4485-bc25-694ceb6ad522")
-	)
-	(wire
-		(pts
-			(xy 111.76 27.94) (xy 208.28 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b46a231b-42e5-4837-a9e1-a5129d249e9b")
-	)
-	(wire
-		(pts
-			(xy 111.76 52.07) (xy 111.76 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b48db4c1-0474-494e-8c04-68383c53aa21")
-	)
-	(wire
-		(pts
-			(xy 123.19 86.36) (xy 124.46 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b74f1ac1-2935-4b0d-af0e-b459dac84815")
 	)
 	(wire
 		(pts
@@ -1517,16 +1259,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 52.07) (xy 77.47 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c452ff3a-371c-490c-a352-0f1e6a912b49")
-	)
-	(wire
-		(pts
 			(xy 156.21 107.95) (xy 156.21 130.81)
 		)
 		(stroke
@@ -1537,13 +1269,13 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 35.56) (xy 190.5 86.36)
+			(xy 123.19 72.39) (xy 123.19 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cc2faa6d-815d-47ef-9572-c88f1bd232b9")
+		(uuid "c9245968-ec34-4c54-b732-7fcb1aa820cb")
 	)
 	(wire
 		(pts
@@ -1564,16 +1296,6 @@
 			(type default)
 		)
 		(uuid "d2184fba-647c-4144-9318-8d8d1dd9ea4d")
-	)
-	(wire
-		(pts
-			(xy 90.17 62.23) (xy 91.44 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d44cb050-9e69-4de7-abf1-2088f26d776c")
 	)
 	(wire
 		(pts
@@ -1607,6 +1329,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 86.36) (xy 124.46 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db0dc158-0db0-470e-b25b-f8f6a0b1e3dd")
+	)
+	(wire
+		(pts
 			(xy 177.8 97.79) (xy 177.8 100.33)
 		)
 		(stroke
@@ -1614,16 +1346,6 @@
 			(type default)
 		)
 		(uuid "db174846-eb93-427b-ba12-aac3b04b6157")
-	)
-	(wire
-		(pts
-			(xy 90.17 35.56) (xy 90.17 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddc71447-8806-40ac-9a90-cd7b282dbe8e")
 	)
 	(wire
 		(pts
@@ -1667,27 +1389,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 62.23) (xy 57.15 62.23)
+			(xy 55.88 72.39) (xy 55.88 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "eccb830b-b149-4efe-91a8-874d5eec00e0")
-	)
-	(wire
-		(pts
-			(xy 90.17 38.1) (xy 90.17 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1486c18-c100-4704-ab05-ca02e351464c")
+		(uuid "f0ba28b9-3a50-45dd-a420-1426a3eb89dd")
 	)
 	(hierarchical_label "COL_4"
 		(shape input)
-		(at 90.17 35.56 90)
+		(at 90.17 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1698,7 +1410,7 @@
 	)
 	(hierarchical_label "COL_7"
 		(shape input)
-		(at 190.5 35.56 90)
+		(at 190.5 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1707,18 +1419,7 @@
 		)
 		(uuid "841ee1ef-94d1-42b0-8145-9dfc9168b9cc")
 	)
-	(hierarchical_label "ROW_1"
-		(shape input)
-		(at 209.55 52.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8a1a6232-d802-49b1-83bc-37da95751d32")
-	)
-	(hierarchical_label "ROW_2"
+	(hierarchical_label "ROW_5"
 		(shape input)
 		(at 215.9 76.2 0)
 		(effects
@@ -1731,7 +1432,7 @@
 	)
 	(hierarchical_label "COL_3"
 		(shape input)
-		(at 55.88 35.56 90)
+		(at 55.88 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1740,20 +1441,9 @@
 		)
 		(uuid "baf8abd7-efc8-4155-881a-5d05b1f9639f")
 	)
-	(hierarchical_label "ROW_0"
-		(shape input)
-		(at 208.28 27.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c48c0734-562d-4cc7-b730-5b4c56ebd915")
-	)
 	(hierarchical_label "COL_6"
 		(shape input)
-		(at 156.21 35.56 90)
+		(at 156.21 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1762,7 +1452,7 @@
 		)
 		(uuid "dbd57f8c-92c6-4793-9022-9bb26e90f367")
 	)
-	(hierarchical_label "ROW_4"
+	(hierarchical_label "ROW_7"
 		(shape input)
 		(at 215.9 120.65 0)
 		(effects
@@ -1775,7 +1465,7 @@
 	)
 	(hierarchical_label "COL_5"
 		(shape input)
-		(at 123.19 35.56 90)
+		(at 123.19 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1784,7 +1474,7 @@
 		)
 		(uuid "f361029d-a9e1-4d59-a85b-1c42f4437ac5")
 	)
-	(hierarchical_label "ROW_3"
+	(hierarchical_label "ROW_6"
 		(shape input)
 		(at 215.9 97.79 0)
 		(effects
@@ -1894,129 +1584,6 @@
 			(project "A320_MCDU"
 				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
 					(reference "D65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "1825910-6:1825910-6")
-		(at 101.6 64.77 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "037d11be-ec35-4bb9-ba63-2cd1d75e80f1")
-		(property "Reference" "SW63"
-			(at 101.6 54.61 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ATC COMM"
-			(at 101.6 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1825910_6:SW_1825910-6-4"
-			(at 101.6 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTREV" "C10"
-			(at 101.6 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 101.6 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "TE CONNECTIVITY"
-			(at 101.6 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "a46b163c-d1c5-4d89-a2e0-37b9e745b9ea")
-		)
-		(pin "2"
-			(uuid "54e928b6-dd90-472c-a0d8-b4662ab6d5c6")
-		)
-		(pin "3"
-			(uuid "483ee13e-4094-4cfd-b3a1-6ae25ae72b8a")
-		)
-		(pin "4"
-			(uuid "65c39710-90de-44d9-8aa6-30dc893fd473")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -2148,7 +1715,7 @@
 				)
 			)
 		)
-		(property "Value" "A"
+		(property "Value" "P"
 			(at 67.31 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2355,110 +1922,6 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 111.76 34.29 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19ab1000-d37f-4ac2-bdad-aee84e355aee")
-		(property "Reference" "D62"
-			(at 114.3 33.0199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 114.3 35.5599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 111.76 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 111.76 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 111.76 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 111.76 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a2935643-bb1d-4876-b44b-83c58bba739f")
-		)
-		(pin "2"
-			(uuid "48de0bdc-0085-4730-9b6f-be2490852b66")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "D62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
 		(at 212.09 104.14 270)
 		(unit 1)
 		(body_style 1)
@@ -2583,7 +2046,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "S"
 			(at 167.64 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2810,7 +2273,7 @@
 				)
 			)
 		)
-		(property "Value" "B"
+		(property "Value" "Q"
 			(at 101.6 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3121,110 +2584,6 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 77.47 58.42 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "436108bb-c915-48aa-b3c3-4229a5b18f3a")
-		(property "Reference" "D58"
-			(at 80.01 57.1499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 80.01 59.6899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 77.47 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 77.47 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 77.47 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 77.47 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d8b3c9ad-c7d0-4b4a-ac65-ea7439d22534")
-		)
-		(pin "2"
-			(uuid "6e053cf0-a07d-4437-8ff4-a433f72ae822")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "D58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
 		(at 177.8 82.55 270)
 		(unit 1)
 		(body_style 1)
@@ -3322,233 +2681,6 @@
 			(project "A320_MCDU"
 				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
 					(reference "D71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 111.76 58.42 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4fcc09e3-e904-46cb-9f56-96c3b930db23")
-		(property "Reference" "D63"
-			(at 114.3 57.1499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 114.3 59.6899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 111.76 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 111.76 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 111.76 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 111.76 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3d92c5d7-99ee-473d-904c-feb132e53db9")
-		)
-		(pin "2"
-			(uuid "db71f44a-65b8-444e-8914-2db5383ea4e6")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "D63")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "1825910-6:1825910-6")
-		(at 67.31 64.77 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "532b755b-5cfe-4b6d-a771-bbc5f24af8db")
-		(property "Reference" "SW58"
-			(at 67.31 54.61 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SEC F-PLN"
-			(at 67.31 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1825910_6:SW_1825910-6-4"
-			(at 67.31 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 67.31 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 67.31 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTREV" "C10"
-			(at 67.31 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 67.31 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "TE CONNECTIVITY"
-			(at 67.31 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "46d5e5ea-f6ee-4f0b-9f4f-0db96118e254")
-		)
-		(pin "2"
-			(uuid "e40d992e-dd12-435d-9231-e56c08b18aa2")
-		)
-		(pin "3"
-			(uuid "64e7a265-5438-4f66-a7df-483e9c9172b2")
-		)
-		(pin "4"
-			(uuid "e826f95a-59a3-4836-8d8a-50069e5614a4")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -3680,7 +2812,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "R"
 			(at 134.62 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3803,7 +2935,7 @@
 				)
 			)
 		)
-		(property "Value" "H"
+		(property "Value" "W"
 			(at 134.62 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3926,7 +3058,7 @@
 				)
 			)
 		)
-		(property "Value" "O"
+		(property "Value" "CLR"
 			(at 201.93 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4049,7 +3181,7 @@
 				)
 			)
 		)
-		(property "Value" "I"
+		(property "Value" "X"
 			(at 167.64 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4172,7 +3304,7 @@
 				)
 			)
 		)
-		(property "Value" "K"
+		(property "Value" "Z"
 			(at 67.31 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4295,7 +3427,7 @@
 				)
 			)
 		)
-		(property "Value" "G"
+		(property "Value" "V"
 			(at 101.6 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4502,110 +3634,6 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 144.78 58.42 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "85e9ee28-6363-4c61-b6db-52c37a5865d7")
-		(property "Reference" "D67"
-			(at 147.32 57.1499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 147.32 59.6899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "79701e8b-734f-48fc-b952-faae384c1a9e")
-		)
-		(pin "2"
-			(uuid "de0bb630-0a7f-43ed-b606-ff8ca1aa8e2e")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "D67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
 		(at 144.78 82.55 270)
 		(unit 1)
 		(body_style 1)
@@ -4710,479 +3738,6 @@
 	)
 	(symbol
 		(lib_id "1825910-6:1825910-6")
-		(at 67.31 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "96b7ff4e-3260-400c-bcf6-ce04e648ee80")
-		(property "Reference" "SW54"
-			(at 67.31 30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "INIT"
-			(at 67.31 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1825910_6:SW_1825910-6-4"
-			(at 67.31 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 67.31 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 67.31 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTREV" "C10"
-			(at 67.31 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 67.31 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "TE CONNECTIVITY"
-			(at 67.31 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "a9b94a2d-c887-4f2e-b671-f2ca76b09733")
-		)
-		(pin "2"
-			(uuid "acb47f50-0324-455d-99cd-22f91a74eaca")
-		)
-		(pin "3"
-			(uuid "ba64392f-8693-4a37-85f8-f72863ee7a62")
-		)
-		(pin "4"
-			(uuid "06dbe64b-810e-49aa-8966-3269458486fd")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "SW54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "1825910-6:1825910-6")
-		(at 101.6 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9c40feb8-8cfa-4e05-93e5-28528e2cda9b")
-		(property "Reference" "SW62"
-			(at 101.6 30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DATA"
-			(at 101.6 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1825910_6:SW_1825910-6-4"
-			(at 101.6 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTREV" "C10"
-			(at 101.6 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 101.6 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "TE CONNECTIVITY"
-			(at 101.6 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "1f3570f6-d6cf-4ce7-b47b-21d1945f6f3a")
-		)
-		(pin "2"
-			(uuid "1fed546b-e557-4331-abd1-56744375c5dd")
-		)
-		(pin "3"
-			(uuid "641c96c1-de8d-44ae-ab26-5b8268c6a41f")
-		)
-		(pin "4"
-			(uuid "1e264988-2995-42ab-aaab-8cb1aa07bd3a")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "SW62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "1825910-6:1825910-6")
-		(at 134.62 64.77 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a53bae05-4988-440a-8e02-9c458041c517")
-		(property "Reference" "SW67"
-			(at 134.62 54.61 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MCDU MENU"
-			(at 134.62 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1825910_6:SW_1825910-6-4"
-			(at 134.62 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 134.62 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTREV" "C10"
-			(at 134.62 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 134.62 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "TE CONNECTIVITY"
-			(at 134.62 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b3eaf603-e28f-41b9-b629-1bcf2f355b92")
-		)
-		(pin "2"
-			(uuid "c47caf0c-bad1-4c43-992a-d8f8c2ab20aa")
-		)
-		(pin "3"
-			(uuid "b965220c-9ea2-4c49-8ec3-7393174d0780")
-		)
-		(pin "4"
-			(uuid "7486aefb-7e5a-440d-a9c0-3c528f9b87e2")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "SW67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 77.47 34.29 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a7b08dda-7b22-4bf5-aebc-961528f67d9a")
-		(property "Reference" "D54"
-			(at 80.01 33.0199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 80.01 35.5599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 77.47 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 77.47 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 77.47 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 77.47 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "39ea37cc-89e2-48b8-a494-5b2373f24418")
-		)
-		(pin "2"
-			(uuid "5d6e3a68-e17f-4fa4-a53f-4c381b7ec252")
-		)
-		(instances
-			(project "A320_MCDU"
-				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6/3cb36ec2-7b99-4151-9562-29c0d9c992d2"
-					(reference "D54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "1825910-6:1825910-6")
 		(at 134.62 133.35 0)
 		(unit 1)
 		(body_style 1)
@@ -5203,7 +3758,7 @@
 				)
 			)
 		)
-		(property "Value" "M"
+		(property "Value" "SP"
 			(at 134.62 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5430,7 +3985,7 @@
 				)
 			)
 		)
-		(property "Value" "J"
+		(property "Value" "Y"
 			(at 201.93 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5553,7 +4108,7 @@
 				)
 			)
 		)
-		(property "Value" "E"
+		(property "Value" "T"
 			(at 201.93 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5884,7 +4439,7 @@
 				)
 			)
 		)
-		(property "Value" "F"
+		(property "Value" "U"
 			(at 67.31 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6007,7 +4562,7 @@
 				)
 			)
 		)
-		(property "Value" "N"
+		(property "Value" "OVFY"
 			(at 167.64 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6130,7 +4685,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "/"
 			(at 101.6 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
