@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "389a66ff-e1cc-4543-98a7-e36fba49f9f6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 132.08 60.96)
+		(size 19.05 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3cb36ec2-7b99-4151-9562-29c0d9c992d2")
+		(property "Sheetname" "Lower Pad"
+			(at 132.08 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Lower_Pad.kicad_sch"
+			(at 132.08 69.1646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "A320_MCDU"
+				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 43.18)
+		(size 20.32 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "71da0e9f-d32f-4090-b35b-682ffca5be86")
+		(property "Sheetname" "Upper Pad"
+			(at 88.9 42.4684 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Upper_Pad.kicad_sch"
+			(at 88.9 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "A320_MCDU"
+				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 41.91)
+		(size 16.51 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "84adae3c-3edc-4278-9553-ff8fb59c3ce3")
+		(property "Sheetname" "NumPad"
+			(at 60.96 41.1984 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "numpad.kicad_sch"
+			(at 60.96 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "A320_MCDU"
+				(path "/389a66ff-e1cc-4543-98a7-e36fba49f9f6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
