@@ -5,6 +5,16 @@
 	(uuid "389a66ff-e1cc-4543-98a7-e36fba49f9f6")
 	(paper "A4")
 	(lib_symbols)
+	(text "TODO: Pico part (all connection)"
+		(exclude_from_sim no)
+		(at 121.92 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9c53c97a-b0b9-4705-8197-4affd8f33127")
+	)
 	(sheet
 		(at 113.03 92.71)
 		(size 16.51 3.81)
